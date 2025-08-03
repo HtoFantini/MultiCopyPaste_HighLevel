@@ -8,7 +8,7 @@ from global_vars import MAX_BUFF_SIZE, clipboard_buffer
 def main():
     keyboard.add_hotkey('ctrl+c', copy_callback)
     for i in range(MAX_BUFF_SIZE):
-        key_seq = f"ctrl+alt+{i+1}"
+        key_seq = f"ctrl+shift+{i+1}"
         print(key_seq)
         keyboard.add_hotkey(key_seq, lambda num=i: paste_callback(num=num,buf=clipboard_buffer))
     keyboard.wait()

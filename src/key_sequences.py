@@ -1,13 +1,13 @@
 paste_key_seq = [
-    ["ctrl", "alt", "1"],
-    ["ctrl", "alt", "2"],
-    ["ctrl", "alt", "3"],
-    ["ctrl", "alt", "4"],
-    ["ctrl", "alt", "5"],
-    ["ctrl", "alt", "6"],
-    ["ctrl", "alt", "7"],
-    ["ctrl", "alt", "8"],
-    ["ctrl", "alt", "9"]
+    ["ctrl", "shift", "1"],
+    ["ctrl", "shift", "2"],
+    ["ctrl", "shift", "3"],
+    ["ctrl", "shift", "4"],
+    ["ctrl", "shift", "5"],
+    ["ctrl", "shift", "6"],
+    ["ctrl", "shift", "7"],
+    ["ctrl", "shift", "8"],
+    ["ctrl", "shift", "9"]
 ]
 
 
